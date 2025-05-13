@@ -11,10 +11,7 @@ Bienvenido soy M J - Welcome I'm M J
 Hello! I am a student studying engineering. of systems and computing.
 
 <p align="center">
-  <!-- skillicons -->
   <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cpp,postgres,mysql,vscode,git&perline=10" />
-  <!-- Wireshark desde Simple Icons -->
-  <img src="https://cdn.simpleicons.org/wireshark/0077C2" alt="Wireshark" width="48" height="48"/>
 </p>
 
 

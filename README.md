@@ -11,8 +11,7 @@ Bienvenido soy M J - Welcome I'm M J
 Hello! I am a student studying engineering. of systems and computing.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cpp,postgres,mysql,vscode,git&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cpp,postgres,mysql,vscode,git,wireshark,nmap&perline=10" />
 </p>
-
 
 <h2 align='center'>ᵀʰᵃⁿᵏ ʸᵒᵘ ᶠᵒʳ ʸᵒᵘʳ ᵛⁱˢⁱᵗ ⭐ ᴳʳᵃᶜⁱᵃˢ ᵖᵒʳ ᵗᵘ ᵛⁱˢⁱᵗᵃ</h2>

@@ -1,49 +1,83 @@
-<h1 align="center">👋 ¡Hola! Soy M J</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" width="100%"/>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+M+J+👋;Desarrollador+en+Formación+💻;Ing.+de+Sistemas+e+Informática+🎓" />
+</h3>
+
+<div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/tu-usuario/tu-usuario?style=social)
+  ![Visitas](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet)
+
+</div>
+
+---
+
+## 🚀 **Tecnologías y Herramientas**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C4FF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+la+Programación;Aprendiendo+y+Compartiendo+conocimiento" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,html,css,react,nodejs,postgres,mysql,mongodb,php,linux,git,github,vscode,aws,docker&perline=10" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
-🎓 Estudiante de **Ingeniería de Sistemas e Informática**  
-💻 Apasionado por la **programación, bases de datos y desarrollo de software**  
-🌱 Actualmente aprendiendo **desarrollo web y aplicaciones**  
-⚡ Curioso por la **inteligencia artificial y la ciberseguridad**
+## 📊 **Estadísticas de GitHub**
+
+<div align="center">
+  
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true)
+
+  ![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🌟 **Proyectos Destacados**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,php,html,css,js,react,postgres,mysql,linux,git,vscode&perline=7" />
-</p>
+<div align="center">
 
----
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| **[Proyecto 1]** | Sistema de gestión académica | Python, PostgreSQL, React |
+| **[Proyecto 2]** | App móvil de tareas | Java, Android Studio, SQLite |
+| **[Proyecto 3]** | Plataforma web educativa | JavaScript, Node.js, MongoDB |
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-## 🌎 Conéctate conmigo
+## 📫 **Conéctate conmigo**
+
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:tu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:TUCORREO@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://twitter.com/tu-usuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">⭐ ¡Gracias por tu visita! ⭐</h2>
+## 💡 **Cita Inspiradora**
+
+> *"El único modo de hacer un gran trabajo es amar lo que haces."* - Steve Jobs
+
+---
+
+<div align="center">
+
+### ⭐ **"La programación no es solo escribir código, es crear soluciones"**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>

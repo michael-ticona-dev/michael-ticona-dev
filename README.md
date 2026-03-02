@@ -13,7 +13,7 @@ Hello! I am a student studying engineering of systems and computing.
 </p>
 
 <p align="center">
-  <img src="assets/windows.jpeg" width="800">
+  <img src="windows.jpeg" width="800">
 </p>
 
 <h2 align='center'>ᵀʰᵃⁿᵏ ʸᵒᵘ ᶠᵒʳ ʸᵒᵘʳ ᵛⁱˢⁱᵗ ⭐ ᴳʳᵃᶜⁱᵃˢ ᵖᵒʳ ᵗᵘ ᵛⁱˢⁱᵗᵃ</h2>

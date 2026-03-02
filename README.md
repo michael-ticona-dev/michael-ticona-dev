@@ -21,19 +21,8 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,postgres,mysql,linux,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,postgres,mysql,linux,git,github,vscode,unity&perline=7" />
 </p>
-
-<br>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<br>
 
 <p align="center">
   <i>Building worlds that think.</i>

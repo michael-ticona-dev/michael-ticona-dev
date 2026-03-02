@@ -14,17 +14,7 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,postgres,mysql,linux,wireshark&perline=6" />
-</p>
-
-<br>
-
-<p align="center">
-  <b>Languages:</b> C, C++, C#, Java, Python, JavaScript
-  <br>
-  <b>Databases:</b> PostgreSQL, MySQL
-  <br>
-  <b>Tools:</b> Linux, Wireshark, Git
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,postgres,mysql,linux,wireshark,git,github,vscode,vb&perline=8" />
 </p>
 
 <br>

@@ -1,18 +1,19 @@
 <h3 align="center">
 
-z
 Bienvenido soy M J - Welcome I'm M J
 
-![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000\&center=true\&vCenter=true\&height=30\&lines=𝒥𝔲𝔫𝔦𝔬𝔯+𝒫𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔢𝔯)
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=𝒥𝔲𝔫𝔦𝔬𝔯+𝒫𝔯𝔬𝔤𝔯𝔞𝔪𝔪𝔢𝔯" />
 
 ¡Hola! Soy estudiante de la carrera de ing. de sistemas e informática.
 
-Hello! I am a student studying engineering. of systems and computing.
+Hello! I am a student studying engineering of systems and computing.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,java,cpp,postgres,mysql,php,linux,vscode,git,figma,raspberrypi,arch,ubuntu&perline=10" />
 </p>
 
-![header](https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/snow.gif?raw=true)
+<p align="center">
+  <img src="assets/windows.jpg" width="800">
+</p>
 
 <h2 align='center'>ᵀʰᵃⁿᵏ ʸᵒᵘ ᶠᵒʳ ʸᵒᵘʳ ᵛⁱˢⁱᵗ ⭐ ᴳʳᵃᶜⁱᵃˢ ᵖᵒʳ ᵗᵘ ᵛⁱˢⁱᵗᵃ</h2>

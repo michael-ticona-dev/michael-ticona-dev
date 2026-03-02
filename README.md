@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>AI Engineer · Game Developer</b>
+  <img src="mj.svg" width="100%" />
 </p>
 
 <p align="center">

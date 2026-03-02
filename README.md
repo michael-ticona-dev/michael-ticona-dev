@@ -26,8 +26,6 @@
 
 <br>
 
-<br>
-
 <p align="center">
   <i>Building worlds that think.</i>
 </p>

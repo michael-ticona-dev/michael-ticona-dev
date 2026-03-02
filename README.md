@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=M%20J&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=M%20J&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <b>AI Engineer · Game Developer</b>
+</p>
+
+<p align="center">
+  <sub>Intelligent Systems · Game Mechanics · Simulation</sub>
 </p>
 
 <br>
@@ -12,17 +16,21 @@
   <img src="windows_2.jpg" width="100%" />
 </p>
 
+<br>
+
+<h3 align="center">Tech Stack</h3>
+
 <p align="center">
-  <i>Intelligent Systems · Game Mechanics · Simulation</i>
+  <img src="https://skillicons.dev/icons?i=unity,cpp,cs,python,c,java,js,html,css,postgres,mysql,linux,git,github,vscode&perline=7" />
 </p>
 
 <br>
 
-<h3 align="center">🛠 Tech Stack</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css,postgres,mysql,linux,git,github,vscode,unity&perline=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
 </p>
+
+<br>
 
 <p align="center">
   <i>Building worlds that think.</i>

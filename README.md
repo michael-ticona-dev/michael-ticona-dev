@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mj.svg" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=M%20J&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" 
+    src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight&hide_border=true" 
     height="165"
   />
 </p>

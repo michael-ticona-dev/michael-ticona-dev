@@ -2,7 +2,7 @@
 <p align="center">AI Engineer · Game Developer</p>
 
 <p align="center">
-  <img src="windows.jpeg" width="100%">
+  <img src="windows_1.jpeg" width="100%">
 </p>
 
 <p align="center">

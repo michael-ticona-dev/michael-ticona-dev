@@ -6,15 +6,15 @@
 
 ---
 
-## ⚡ Tecnologías
+<h2 align="center">⚡ Tecnologías</h2>
 
-### 💻 Lenguajes de programación
+<h3 align="center">💻 Lenguajes de programación</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,java,bash" />
 </p>
 
-**Bases de datos:**
+<h3 align="center">🗄️ Bases de datos</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠 Herramientas
+<h2 align="center">🛠 Herramientas</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Racha GitHub
+<h2 align="center">🔥 Racha GitHub</h2>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" />

@@ -1,91 +1,100 @@
-# Hi there, I'm JESUS_XD 👋
+<h1 align="center">Hola 👋, soy JESUS_XD</h1>
 
-💻 Developer · ESP32 · Open Source · Electronics
+<p align="center">
+💻 Programación • ⚡ Electrónica • 🚀 ESP32 • 🔧 Open Source
+</p>
 
-Building projects with code and hardware.
-
-Explore my repositories — more projects coming soon 🚀
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Desarrollador+en+aprendizaje;ESP32+%2B+Electr%C3%B3nica;C%2B%2B+%7C+Python+%7C+PlatformIO;Construyendo+proyectos+y+aprendiendo" />
+</p>
 
 ---
 
-## 👤 About Me
+## 👨‍💻 Sobre mí
 
 ```terminal
-> Name: Jesus
-> Focus: Embedded Systems
-> Learning: Software + Electronics
-> Stack: ESP32 / C++ / PlatformIO
+> Nombre: Jesus
+> País: Perú
+> Intereses: ESP32, electrónica y software
+> Actualmente: Aprendiendo sistemas embebidos
+> Objetivo: Crear proyectos cada vez más grandes 🚀
 ```
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tecnologías
 
-### Languages
-- C++
-- Python
-- JavaScript
-- SQL
+### 💻 Lenguajes
 
-### Tools
-- Git
-- GitHub
-- PlatformIO
-- VS Code
-- Linux
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,mysql,bash" />
+</p>
 
-### Hardware
+### 🛠 Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### 🔧 Hardware
+
 - ESP32
 - Arduino
 - NRF24L01
-- Sensors
-- Motors
+- Motores DC
+- Sensores
 
 ---
 
-## 🛠 Featured Projects
+## 🚀 Proyectos destacados
 
-### 🚗 ESP32 Smart Car
-Remote control car using ESP32.
+### 🚗 Carro ESP32
+Control PWM + motores + comunicación inalámbrica.
 
-Features:
-- PWM motor control
-- Wireless communication
-- Embedded programming
+### 📡 Comunicación NRF24L01
+Experimentos de transmisión de datos.
 
----
-
-### 📡 NRF Communication
-Long-range communication experiments.
-
-Features:
-- RF modules
-- ESP32 integration
-- Data transmission
+### ⚙️ Automatización
+Pruebas de hardware y sistemas embebidos.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas
 
-GitHub Stats Badge
-
-Most Used Languages Badge
-
----
-
-## 🌱 Currently Learning
-
-- Embedded Systems
-- Networking
-- Security basics
-- Software Engineering
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🔗 Connect
+## 🔥 Racha GitHub
 
-GitHub
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight"/>
+</p>
 
 ---
 
-> "Learning something new every day."
+## 🌱 Aprendiendo actualmente
+
+- Sistemas embebidos
+- Redes
+- Git avanzado
+- Desarrollo de software
+
+---
+
+## 🌐 Contacto
+
+GitHub: TUUSUARIO
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&label=Visitas&color=blue"/>
+</p>
+
+<p align="center">
+⚡ "Aprendiendo algo nuevo cada día."
+</p>

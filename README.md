@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Programador+en+aprendizaje;Learning+Software+Development;Electr%C3%B3nico+y+creador+de+proyectos;Electronics+and+project+builder;ESP32+%2B+Arduino+%2B+IoT;C%2B%2B+%7C+Python+%7C+Web+%7C+SQL;Construyendo+el+futuro+paso+a+paso;Building+the+future+step+by+step" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Programador+en+aprendizaje;Developer+in+progress;Desarrollador+de+software;Software+Developer;Construyendo+proyectos+con+c%C3%B3digo;Building+projects+with+code;C%2B%2B+%7C+Python+%7C+Web+%7C+SQL;Aprendiendo+y+mejorando+cada+d%C3%ADa;Learning+and+improving+every+day" />
 </p>
 
 ---
@@ -51,13 +51,3 @@
 <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🚀 Enfoque actual
-
-- Aprendiendo desarrollo IoT  
-- Construyendo proyectos con ESP32  
-- Mejorando habilidades en backend y hardware  
-- Automatización y robótica  
-
----

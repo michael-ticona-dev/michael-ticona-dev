@@ -1,31 +1,91 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=M%20J&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
-</p>
+# Hi there, I'm JESUS_XD 👋
 
-<p align="center">
-  <b>AI Engineer · Game Developer</b>
-</p>
+💻 Developer · ESP32 · Open Source · Electronics
 
-<p align="center">
-  <sub>Intelligent Systems · Game Mechanics · Simulation</sub>
-</p>
+Building projects with code and hardware.
 
-<br>
+Explore my repositories — more projects coming soon 🚀
 
-<p align="center">
-  <img src="windows_2.jpg" width="100%" />
-</p>
+---
 
-<br>
+## 👤 About Me
 
-<h3 align="center">Tech Stack</h3>
+```terminal
+> Name: Jesus
+> Focus: Embedded Systems
+> Learning: Software + Electronics
+> Stack: ESP32 / C++ / PlatformIO
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cpp,cs,python,c,java,js,html,css,postgres,mysql,linux,git,github,vscode&perline=7" />
-</p>
+---
 
-<br>
+## ⚡ Tech Stack
 
-<p align="center">
-  <i>Building worlds that think.</i>
-</p>
+### Languages
+- C++
+- Python
+- JavaScript
+- SQL
+
+### Tools
+- Git
+- GitHub
+- PlatformIO
+- VS Code
+- Linux
+
+### Hardware
+- ESP32
+- Arduino
+- NRF24L01
+- Sensors
+- Motors
+
+---
+
+## 🛠 Featured Projects
+
+### 🚗 ESP32 Smart Car
+Remote control car using ESP32.
+
+Features:
+- PWM motor control
+- Wireless communication
+- Embedded programming
+
+---
+
+### 📡 NRF Communication
+Long-range communication experiments.
+
+Features:
+- RF modules
+- ESP32 integration
+- Data transmission
+
+---
+
+## 📊 GitHub Stats
+
+GitHub Stats Badge
+
+Most Used Languages Badge
+
+---
+
+## 🌱 Currently Learning
+
+- Embedded Systems
+- Networking
+- Security basics
+- Software Engineering
+
+---
+
+## 🔗 Connect
+
+GitHub
+
+---
+
+> "Learning something new every day."

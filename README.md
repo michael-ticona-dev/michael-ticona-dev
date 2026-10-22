@@ -1,51 +1,66 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Michael Jesús Ticona — Systems Engineering · Software · Linux" width="100%">
-</picture>
+<img src="assets/header.svg" width="100%" alt="Michael Jesús Ticona — Software, systems and silicon, built from the terminal.">
 
 <br>
 
-I write software from a terminal on Arch Linux, and I like building tools that take
-manual steps out of my day. Lately I've been moving closer to hardware with ESP32 and
-connected devices, and learning security fundamentals along the way.
+Systems Engineering. Most of my day happens in a terminal on Arch Linux and Hyprland, writing software and wiring it to hardware. Right now I'm going deeper into embedded systems and learning cybersecurity the ethical way.
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="">
 
-### Stack
+<!-- catalog:start -->
+<p>
+<img src="assets/labels/languages.svg" alt="Languages"><br>
+<img src="assets/chips/python.svg" alt="Python">
+<img src="assets/chips/java.svg" alt="Java">
+<img src="assets/chips/c.svg" alt="C">
+<img src="assets/chips/cpp.svg" alt="C++">
+<img src="assets/chips/csharp.svg" alt="C#">
+<img src="assets/chips/javascript.svg" alt="JavaScript">
+</p>
 
-|             |                                    |
-| :---------- | :--------------------------------- |
-| **Code**    | Python · C# · JavaScript · HTML/CSS |
-| **Systems** | Linux · Arch Linux · Bash · Git    |
-| **Tools**   | Terminal workflows · Automation · Unity |
+<p>
+<img src="assets/labels/web.svg" alt="Web"><br>
+<img src="assets/chips/html.svg" alt="HTML">
+<img src="assets/chips/css.svg" alt="CSS">
+<img src="assets/chips/laravel.svg" alt="Laravel">
+<img src="assets/chips/vite.svg" alt="Vite">
+<img src="assets/chips/react.svg" alt="React">
+<img src="assets/chips/react-native.svg" alt="React Native">
+</p>
 
-<br>
+<p>
+<img src="assets/labels/databases.svg" alt="Databases"><br>
+<img src="assets/chips/mysql.svg" alt="MySQL">
+<img src="assets/chips/sql.svg" alt="SQL">
+<img src="assets/chips/postgresql.svg" alt="PostgreSQL">
+</p>
 
-### Projects
+<p>
+<img src="assets/labels/systems.svg" alt="Systems"><br>
+<img src="assets/chips/arch-linux.svg" alt="Arch Linux">
+<img src="assets/chips/ubuntu.svg" alt="Ubuntu">
+<img src="assets/chips/hyprland.svg" alt="Hyprland">
+</p>
 
-**[abyss](https://github.com/michael-ticona-dev/abyss)** &nbsp;·&nbsp; <sub>C# · Unity 6</sub>
-A 2D platformer built on URP 2D and the new Input System. Covers player movement,
-health and damage feedback, fireball projectiles, enemy movement, a following camera
-with zoom, elevators and a menu.
+<p>
+<img src="assets/labels/embedded-hardware.svg" alt="Embedded &amp; hardware"><br>
+<img src="assets/chips/esp32.svg" alt="ESP32">
+<img src="assets/chips/espressif.svg" alt="Espressif">
+<img src="assets/chips/raspberry-pi.svg" alt="Raspberry Pi">
+</p>
 
-<!--
-  Uncomment once the repository is public:
+<p>
+<img src="assets/labels/also.svg" alt="Also"><br>
+<img src="assets/chips/unity.svg" alt="Unity">
+<img src="assets/chips/ethical-hacking.svg" alt="Ethical hacking">
+<img src="assets/chips/cybersecurity.svg" alt="Cybersecurity">
+</p>
+<!-- catalog:end -->
 
-**[windows-cli](https://github.com/michael-ticona-dev/windows-cli)** &nbsp;·&nbsp; <sub>Python · Typer</sub>
-A terminal assistant for Arch Linux that understands instructions in Spanish through
-an intent classifier written from scratch in NumPy. It runs offline with no external
-APIs, previews every change as a diff, asks before applying it and supports `/undo`.
-Includes commands for Git, builds, tests and OCR.
--->
+<p>
+<img src="assets/labels/interests.svg" alt="Interests"><br>
+Where software meets hardware &nbsp;·&nbsp; Linux internals &nbsp;·&nbsp; Devices that talk to each other &nbsp;·&nbsp; Security, the ethical way
+</p>
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="">
 
-### Exploring
-
-C/C++ on ESP32 · IoT and device-to-device communication · Cybersecurity fundamentals
-
-<br>
-
-### Contact
-
-[ticona1009@gmail.com](mailto:ticona1009@gmail.com) &nbsp;·&nbsp; [github.com/michael-ticona-dev](https://github.com/michael-ticona-dev)
+<sub>Michael Jesús Ticona &nbsp;·&nbsp; <a href="mailto:ticona1009@gmail.com">ticona1009@gmail.com</a> &nbsp;·&nbsp; <a href="https://github.com/michael-ticona-dev">github.com/michael-ticona-dev</a></sub>

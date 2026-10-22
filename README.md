@@ -1,37 +1,51 @@
-<h1 align="center">Hola 👋, soy Michael Ticona</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Michael Jesús Ticona — Systems Engineering · Software · Linux" width="100%">
+</picture>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Programador+en+aprendizaje;Desarrollador+de+software;Software+Developer;Construyendo+proyectos+con+c%C3%B3digo;Building+projects+with+code;C%2B%2B+%7C+Python+%7C+Web+%7C+SQL;Aprendiendo+y+mejorando+cada+d%C3%ADa;Learning+and+improving+every+day" />
-</p>
+<br>
 
----
+I write software from a terminal on Arch Linux, and I like building tools that take
+manual steps out of my day. Lately I've been moving closer to hardware with ESP32 and
+connected devices, and learning security fundamentals along the way.
 
-<h2 align="center">⚡ Tecnologías</h2>
+<br>
 
-<h3 align="center">💻 Lenguajes de programación</h3>
+### Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,java,bash" />
-</p>
+|             |                                    |
+| :---------- | :--------------------------------- |
+| **Code**    | Python · C# · JavaScript · HTML/CSS |
+| **Systems** | Linux · Arch Linux · Bash · Git    |
+| **Tools**   | Terminal workflows · Automation · Unity |
 
-<h3 align="center">🗄️ Bases de datos</h3>
+<br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+### Projects
 
----
+**[abyss](https://github.com/michael-ticona-dev/abyss)** &nbsp;·&nbsp; <sub>C# · Unity 6</sub>
+A 2D platformer built on URP 2D and the new Input System. Covers player movement,
+health and damage feedback, fireball projectiles, enemy movement, a following camera
+with zoom, elevators and a menu.
 
-<h2 align="center">🛠 Herramientas</h2>
+<!--
+  Uncomment once the repository is public:
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" />
-</p>
+**[windows-cli](https://github.com/michael-ticona-dev/windows-cli)** &nbsp;·&nbsp; <sub>Python · Typer</sub>
+A terminal assistant for Arch Linux that understands instructions in Spanish through
+an intent classifier written from scratch in NumPy. It runs offline with no external
+APIs, previews every change as a diff, asks before applying it and supports `/undo`.
+Includes commands for Git, builds, tests and OCR.
+-->
 
----
+<br>
 
-<h2 align="center">🔥 Racha GitHub</h2>
+### Exploring
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true" />
-</p>
+C/C++ on ESP32 · IoT and device-to-device communication · Cybersecurity fundamentals
+
+<br>
+
+### Contact
+
+[ticona1009@gmail.com](mailto:ticona1009@gmail.com) &nbsp;·&nbsp; [github.com/michael-ticona-dev](https://github.com/michael-ticona-dev)

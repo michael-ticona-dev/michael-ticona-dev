@@ -31,7 +31,7 @@ MUTED = "#858585"
 PAPER = "#F2F2F2"
 SHU = "#D2452C"  # vermilion, the single accent
 
-TAGLINE = "Software, systems and silicon — built from the terminal."
+TAGLINE = "Ingeniería de Sistemas e Informática."
 
 # (label, icon) per category; icon is a Simple Icons slug or a key of GLYPHS.
 CATALOG = [

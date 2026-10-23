@@ -1,8 +1,7 @@
-<img src="assets/header.svg" width="100%" alt="Michael Jesús Ticona — Software, systems and silicon, built from the terminal.">
+
+<img src="assets/header.svg" width="100%" alt="Michael Jesús Ticona — Ing. de Sistemas e Informática.">
 
 <br>
-
-Systems Engineering. Most of my day happens in a terminal on Arch Linux and Hyprland, writing software and wiring it to hardware. Right now I'm going deeper into embedded systems and learning cybersecurity the ethical way.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
